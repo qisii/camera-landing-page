@@ -627,17 +627,17 @@ footer {
 
     .footer-links {
         justify-self: start;
-        font-size: 1em;
+        /* font-size: 1em; */
     }
 
     .socials {
         justify-self: end;
-        font-size: 1em;
+        /* font-size: 1em; */
     }
 
     .copyright {
         margin: 0;
-        font-size: 1em;
+        /* font-size: 1em; */
     }
     
 }
