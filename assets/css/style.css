@@ -572,7 +572,7 @@ footer {
         height: 240px;
     }
 
-    .product-info h3 {
+    /* .product-info h3 {
         font-size: 1.4em;
     }
 
@@ -582,7 +582,7 @@ footer {
 
     .price {
         font-size: 1.4em;
-    }
+    } */
 
     /* RIGHT SIDE: stats + story side by side */
     .side {
