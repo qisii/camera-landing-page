@@ -572,6 +572,18 @@ footer {
         height: 240px;
     }
 
+    .product-info h3 {
+        font-size: 1.4em;
+    }
+
+    .product-info p {
+        font-size: 1em;
+    }
+
+    .price {
+        font-size: 1.4em;
+    }
+
     /* RIGHT SIDE: stats + story side by side */
     .side {
         flex-direction: row;
@@ -615,14 +627,17 @@ footer {
 
     .footer-links {
         justify-self: start;
+        font-size: 1em;
     }
 
     .socials {
         justify-self: end;
+        font-size: 1em;
     }
 
     .copyright {
         margin: 0;
+        font-size: 1em;
     }
     
 }
